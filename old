@@ -1,0 +1,285 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+  <!--[if gte mso 9]>
+	<xml>
+		<o:OfficeDocumentSettings>
+		<o:AllowPNG/>
+		<o:PixelsPerInch>96</o:PixelsPerInch>
+		</o:OfficeDocumentSettings>
+	</xml>
+	<![endif]-->
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="format-detection" content="date=no" />
+	<meta name="format-detection" content="address=no" />
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="x-apple-disable-message-reformatting" /><!--[if !mso]><!-->
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+	
+	<!--<![endif]-->
+  <!--<title>Karma Template NEW</title>-->
+	<!--[if gte mso 9]>
+	<style type="text/css" media="all">
+		sup { font-size: 100% !important; }
+	</style>
+	<![endif]-->
+	<style media="screen" type="text/css">/* Linked Styles */
+		* { font-family: 'Inter', sans-serif; 'Helvetica Neue', 'Arial', sans-serif;}
+		body { padding:0 !important; margin:0 !important; display:block !important; min-width:100% !important; width:100% !important; background:#f9f9f9; -webkit-text-size-adjust:none;}
+		a { color:#f33283; text-decoration:underline; }
+		p { padding:0 !important; margin:0 !important }
+		img { -ms-interpolation-mode: bicubic; /* Allow smoother rendering of resized image in Internet Explorer */ }
+		.tab {color:#302D2D;}
+
+		/* Mobile styles */
+		@media only screen and (max-device-width: 480px), only screen and (max-width: 480px) {
+			.mobile-shell { width: 100% !important; min-width: 100% !important; }
+			.center { margin: 0 auto !important; } /*for button*/
+
+			.td { width: 100% !important; min-width: 100% !important; padding: 0px 0px 0px 0px !important; } /*defines email widths*/
+
+			.mobile-br-5 { height: 5px !important; }
+			.mobile-br-10 { height: 10px !important; }
+			.mobile-br-15 { height: 15px !important; }
+			.mobile-br-25 { height: 25px !important; }
+			.mobile-br-35 { height: 35px !important; }
+
+			/*.text,*/
+			/*.text-link,*/
+			.text-button,
+			.text-footer,
+			.text2,
+			.h2,
+			.h3,
+			.h6,
+			.text-small,
+			.text-banner { text-align: center !important; }
+
+
+			.main { padding: 0px 0px 0px 0px !important; }
+			.section { padding: 30px 0px 0px 0px !important; }
+			.intro-section {padding: 15px 0px 20px 0px !important;}
+			.title-section { padding: 30px 30px 0px 30px !important; }
+			.footer { padding: 30px 15px 30px 15px !important; }
+			.content { padding: 0px 25px 0px 25px !important; }
+			.content2 { padding: 30px 25px 0px 25px !important; }
+			.content3 { padding: 30px 25px 0px 25px !important; }
+			.quote { padding: 30px 30px 30px 30px !important; }
+			.section-logo { padding: 30px 0px 0px 20px !important; }
+
+			
+			.m-td,
+			.hide-for-mobile { display: none !important; width: 0 !important; height: 0 !important; font-size: 0 !important; line-height: 0 !important; min-height: 0 !important; }
+
+			.mobile-block { display: block !important; }
+
+			.fluid-img img { width: 100% !important; max-width: 100% !important; height: auto !important; }
+
+			.column,
+			.column-top,
+			.column-bottom,
+			.column-dir { float: left !important; width: 100% !important; display: block !important; } 
+
+			.content-spacing { width: 15px !important; }
+		}
+	</style>
+</head>
+
+
+<body class="body">
+
+
+<table bgcolor="#f9f9f9" border="0" cellpadding="0" cellspacing="0" width="100%" margin="0" padding="0">
+	<tbody>
+		<tr>
+			<td align="center" valign="top">
+			
+<table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" class="mobile-shell" width="560">
+	<tbody>
+		<tr>
+			<td class="td" style="width:560px; min-width:560px; font-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; Margin:0">	
+
+<!-- logo header -->
+<table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+						<td class="img" style="font-size:0pt; line-height:0pt; text-align:center; padding: 30px;" >
+						<div class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:center"><a href="https://karma.onelink.me/ltDk/fba75c16?logo" target="_blank"><img alt="Header image" border="0" src="https://cdn.braze.eu/appboy/communication/assets/image_assets/images/606d871c6242a105575b26bf/original.png?1617790748" width="300" height="auto"/></a></div>
+						</td>
+					</tr>
+	</tbody>
+</table>
+<!-- END logo header -->
+
+<!-- !!! DO NOT EDIT ANITHING ABOVE THIS LINE !!! -->
+
+
+<!-- body text -->
+<table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+      <td style="padding: 30px;">
+        <div style="color:#000; font-size:15px; line-height:24px; text-align:left">Hej {{${first_name} | default: 'you'|split: ’ ’ | first | }},<br />
+									<br />
+									Varmt välkommen till världens minst krävande klimatrörelse. Vi är glada över att du joinat oss. Därför kommer här några starting tips.
+									</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- END body text -->
+
+<!-- header img -->
+<table bgcolor="#333" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+						<td class="img" style="font-size:0pt; line-height:0pt; text-align:center">
+						<div class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left"><img alt="Header image" border="0" src="https://cdn.braze.eu/appboy/communication/assets/image_assets/images/605bab3cde3f10376abdde96/original.png?1616620348" width="560" height="auto"/></div>
+						</td>
+					</tr>
+	</tbody>
+</table>
+<!-- END header img -->
+
+<!-- body text -->
+<table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+      <td style="padding: 30px;">
+        <div style="color:#000; font-size:15px; line-height:24px; text-align:left">Hållbarhet suger. Det är tidskrävande, dyrt och inte minst hårt arbete. Självklart föredrar vi det motsatta: tidseffektiva grejer som ger stort värde och kräver minimalt arbete. Vi vet ju att du är likadan. Det är ju därför du joinat världens minst krävande - men geniala - klimatrörelse. Dessutom kommer du kunna njuta av all mat på Karma, till saftiga rabatter. Oh la la.</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- END body text -->
+
+<!-- button -->
+<table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+		  <td align="center" style="padding: 0px 30px 30px 30px;">
+				<table bgcolor="#FF80B4" border="0" cellpadding="0" cellspacing="0" class="center" >
+						<tbody>
+							<tr>
+								<td class="text-button" style="color:#ffffff; font-size:14px; line-height:24px; text-align:center; font-weight:bold; text-transform: uppercase; letter-spacing: 1px; padding:12px 30px 12px 30px"><a class="link-white" href="https://karma.onelink.me/ltDk/fba75c16" style="color:#ffffff; text-decoration:none" target="_blank"><span class="link-white" style="color:#ffffff; text-decoration:none">Rädda mat nära dig</span></a></td>
+							</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+	</tbody>
+</table>
+<!-- END button -->
+
+<!-- content img -->
+<table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+						<td class="img" style=" padding: 30px 30px 0px 30px; font-size:0pt; line-height:0pt; text-align:center" >
+						<div class="fluid-img" style="font-size:0pt; line-height:0pt; text-align:left"><img alt="block image" border="0" src="https://cdn.braze.eu/appboy/communication/assets/image_assets/images/605bab403cf3a02f8b3bf0b5/original.png?1616620352" width="500" height="auto"/></div>
+						</td>
+					</tr>
+	</tbody>
+</table>
+<!-- END content img -->
+
+<!-- title -->
+<table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+      <td style="padding: 30px 30px 0px 30px;">
+        <div class="h2-center" style="color:#000; font-size:28px; line-height:34px; text-align:left; font-weight: bold;">Hur gör man?</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- END title -->
+
+<!-- body text -->
+<table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+      <td style="padding: 30px;">
+        <div style="color:#000; font-size:15px; line-height:24px; text-align:left">Jo, du öppnar upp appen och utforskar utbudet. Sen går du förbi restaurangen och hämtar upp maten. Et voilá. Nu har du räddat ditt första mål. Glöm bara inte att tillåta push-notiser, för att inte missa din upphämtningstid.</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- END body text -->
+
+<!-- divider line -->
+<table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+	    <td style="padding:2px 30px;"width="100%">
+	      <div style="border-top: 1px solid black;">
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- END divider line -->
+
+<!-- small body text: use only at the end for additional info such as terms&conditions or reminders to follow Karma IG -->
+<table bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td style="padding: 15px 30px 30px 30px;">
+				<div style="color:#000; font-size:13px; line-height:18px; text-align:left">För att joina den minst ambitiösa klimatrörelsen världen någonsin skådat - klicka dig vidare till källan för allt roligt innehåll, vår Instagram.
+				</div>
+				<div style="color:#000; font-size:12px; line-height:18px; text-align:left"><br/><a href="https://www.instagram.com/karma_sweden/" target="_blank">Följ oss på Instagram</a>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<!-- END small body text -->
+
+
+<!-- !!! DO NOT EDIT ANITHING BELLOW THIS LINE !!! -->
+
+<!-- footer -->
+<table bgcolor="#000" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+		  <td style="font-size:0pt; line-height:0pt; text-align:left; padding: 30px 30px 15px 30px;">
+		    <span style="font-size:0pt; line-height:0pt; padding-right: 17px;"><a href="https://www.instagram.com/karma_sweden/" target="_blank"><img alt="instagram" src="https://cdn.braze.eu/appboy/communication/assets/image_assets/images/605ba8f63cf3a032063bf0ec/original.png?1616619766" style="border-width: 0px; border-style: solid; width: 20px; height: 20px;"></a></span>
+		     <span style="font-size:0pt; line-height:0pt; padding-right: 17px;"><a href="https://www.linkedin.com/company/karmalicious/mycompany/" target="_blank"><img alt="linkedin" src="https://cdn.braze.eu/appboy/communication/assets/image_assets/images/605ba8f63cf3a0341a3bf0ac/original.png?1616619766" style="border-width: 0px; border-style: solid; width: 20px; height: 20px;"></a></span>
+		      <span style="font-size:0pt; line-height:0pt; padding-right: 17px;"><a href="https://www.facebook.com/KarmaAppUK" target="_blank"><img alt="facebook" src="https://cdn.braze.eu/appboy/communication/assets/image_assets/images/605ba8f66242a130d5a9026d/original.png?1616619766" style="border-width: 0px; border-style: solid; width: 20px; height: 20px;"></a></span>
+			  </td>
+			</tr>
+			<tr>
+			  <td style="padding:2px 30px;"width="100%">
+			    <div style="border-top: 0.5px solid grey;">
+			  </td>
+		  </tr>
+		  <tr>
+			  <td style="padding: 15px 30px 0px 30px;"width="100%">
+			    <div style="font-size:0pt; line-height:0pt"><a href="https://karma.onelink.me/ltDk/fba75c16?logo" target="_blank"><img alt="Karma symbol" border="0" src="https://cdn.braze.eu/appboy/communication/assets/image_assets/images/6054dfcf6242a15d8587a7a1/original.png?1616175055" width="42" height="42" /></a></div>
+			  </td>
+		  </tr>
+			<tr>
+			  <td style="padding: 15px 30px;"width="100%">
+			    <div style="color:#e5e5e5; font-size:10px; line-height:16px; text-align:left">2021 © All rights reserved <br/>Get Karma from&nbsp; &nbsp;<a style="color:#e5e5e5; text-decoration:underline" href="https://go.onelink.me/app/e4c6bf71" target="_blank">App Store</a>&nbsp; &nbsp;<a style="color:#e5e5e5; text-decoration:underline" href="https://go.onelink.me/app/dffd27d0" target="_blank">Google Play</a></div>
+			  </td>
+		  </tr>
+		  <tr>
+			  <td style="padding:2px 30px;"width="100%">
+			    <div style="border-top: 0.5px solid grey;">
+			  </td>
+		  </tr>
+		  <tr>
+			  <td style="padding: 15px 30px 30px 30px;"width="100%">
+			    <div style="color:#e5e5e5; font-size:11px; line-height:16px; text-align:left">If you don't want to receive these emails from Karma in the future, you can <a style="color:#e5e5e5; text-decoration:underline" href=" {{${preference_center_url}}}" target="_blank">manage your subscription</a> or <a style="color:#e5e5e5; text-decoration:underline" href="{{${set_user_to_unsubscribed_url}}}" target="_blank">unsubscribe</a></div>
+			  </td>
+		  </tr>
+	</tbody>
+</table>
+<!-- END footer -->
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</body>
+</html>
